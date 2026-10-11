@@ -7,9 +7,9 @@ export type LinkItem = {
 };
 
 export const profile = {
-  name: "김클로",
-  bio: "세계 최강 바이브코더",
-  imageUrl: "/profile-placeholder.svg",
+  name: "김보아",
+  bio: "손으로 만드는걸 좋아하는 AI & Data Consultant",
+  imageUrl: "/profile.jpg",
 };
 
 export const links: LinkItem[] = [
