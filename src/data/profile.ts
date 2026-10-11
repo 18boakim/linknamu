@@ -13,7 +13,6 @@ export const profile = {
 };
 
 export const links: LinkItem[] = [
-  { id: "linkedin", label: "LinkedIn", url: "https://www.linkedin.com/" },
-  { id: "github", label: "GitHub", url: "https://github.com/" },
-  { id: "blog", label: "Blog", url: "https://example.com/" },
+  { id: "linkedin", label: "LinkedIn", url: "https://www.linkedin.com/in/boa-kim-6062861b8/" },
+  { id: "github", label: "GitHub", url: "https://github.com/18boakim" },
 ];
